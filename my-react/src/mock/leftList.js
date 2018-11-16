@@ -1,0 +1,12 @@
+module.exports={
+    leftList:[{
+        id:1,
+        name:'热门推荐'
+    },{
+        id:2,
+        name:'礼品鲜花'
+    },{
+        id:3,
+        name:'食品生鲜'
+    }]
+}
